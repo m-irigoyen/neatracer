@@ -1,0 +1,18 @@
+[submodule "mmecmake"]
+	path = mmecmake
+	url = git@git.edrevan.com:mmg/mme/mmecmake.git
+[submodule "shared/mme"]
+	path = shared/mme
+	url = git@git.edrevan.com:mmg/mme/mme.git
+[submodule "shared/mmecpp"]
+	path = shared/mmecpp
+	url = git@git.edrevan.com:mmg/mme/mmecpp.git
+[submodule "shared/sfmlutils"]
+	path = shared/sfmlutils
+	url = git@git.edrevan.com:mmg/mme/sfmlutils.git
+[submodule "thirdparties/catch"]
+	path = thirdparties/catch
+	url = git@git.edrevan.com:mmg/mme/catch.git
+[submodule "thirdparties/yamlcpp"]
+	path = thirdparties/yamlcpp
+	url = https://github.com/jbeder/yaml-cpp.git
